@@ -16,6 +16,22 @@ overflow-x: auto;
 overflow-y: visible;
 }
 
+hr
+{
+	color:chocolate;
+	margin-top: 2rem;
+	margin-bottom:2rem;
+	opacity:0.75;
+}
+
+ul {
+	list-style: none;
+}
+
+li {
+	padding-top: 2px;
+}
+
 .dropdown-toggle { outline: 0; }
 
 .btn-toggle {
@@ -90,6 +106,36 @@ overflow-y: auto;
 	text-align: center;
 }
 
+.Appartements-Info
+{
+	width: 70%;
+	text-align: justify;
+}
+
+.Appartements-Preisliste
+{
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.nav-link:hover
+{
+	background-color: chocolate;
+	color:bisque;
+}
+
+.nav-link
+{
+	color:beige;
+	font-size: 1.2em;
+}
+
+#haus-rosenegg
+{
+	color:beige;
+}
+
 #rose-icon
 {
 	width: 90px;
@@ -104,8 +150,30 @@ overflow-y: auto;
 	margin-right: auto;
 }
 
-#Appartements-Info
+#Rose-Zimmer
 {
-	width: 70%;
-	text-align: justify;
+	width: 100%;
+}
+
+#winter-image
+{
+	width: 80%;
+	margin-left: auto;
+	margin-right:auto;
+	margin-bottom: 20px;
+}
+
+#summer-image
+{
+	width: 80%;
+	margin-left: auto;
+	margin-right:auto;
+}
+
+#kontakt
+{
+	width: 50%;
+	margin-left: auto;
+	margin-right:auto;
+	text-align: center;
 }
