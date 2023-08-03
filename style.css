@@ -28,6 +28,12 @@ ul {
 	list-style: none;
 }
 
+#niceToKnow
+{
+	list-style: inside;
+	margin-left: 20px;
+}
+
 li {
 	padding-top: 2px;
 }
@@ -117,6 +123,7 @@ overflow-y: auto;
 	width: 50%;
 	margin-left: auto;
 	margin-right: auto;
+	margin-top: 20px;
 }
 
 .nav-link:hover
@@ -129,6 +136,11 @@ overflow-y: auto;
 {
 	color:beige;
 	font-size: 1.2em;
+}
+
+#menu
+{
+	background-color: #8B0000;
 }
 
 #haus-rosenegg
