@@ -46,3 +46,4 @@ function showSlides(n, sliderName) {
   slides[slideIndex-1].style.display = "block";
   
   captionText.innerHTML = sliderCaptionText.get(sliderName)[slideIndex];
+}
